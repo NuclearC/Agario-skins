@@ -88,3 +88,23 @@ wget configs-web.agario.miniclippt.com/live/v5/175/doge_hi.png -O doge.png
 wget configs-web.agario.miniclippt.com/live/v5/175/nasa_hi.png -O nasa.png
 wget configs-web.agario.miniclippt.com/live/v5/175/byzantium_hi.png -O byzantium.png
 wget configs-web.agario.miniclippt.com/live/v5/175/french_kingdom_hi.png -O french\ kingdom.png
+wget configs-web.agario.miniclippt.com/live/v5/175/somalia_hi.png -O somalia.png
+wget configs-web.agario.miniclippt.com/live/v5/175/turkey_hi.png -O turkey.png
+wget configs-web.agario.miniclippt.com/live/v5/175/mars_hi.png -O mars.png
+wget configs-web.agario.miniclippt.com/live/v5/175/pokerface_hi.png -O pokerface.png
+wget configs-web.agario.miniclippt.com/live/v5/175/irs_hi.png -O irs.png
+wget configs-web.agario.miniclippt.com/live/v5/175/receita_federal_hi.png -O receita\ federal.png
+wget configs-web.agario.miniclippt.com/live/v5/175/8_hi.png -O 8.png
+wget configs-web.agario.miniclippt.com/live/v5/175/tsipras_hi.png -O tsipras.png
+wget configs-web.agario.miniclippt.com/live/v5/175/berlusconi_hi.png -O berlusconi.png
+wget configs-web.agario.miniclippt.com/live/v5/175/blatter_hi.png -O blatter.png
+wget configs-web.agario.miniclippt.com/live/v5/175/boris_hi.png -O boris.png
+wget configs-web.agario.miniclippt.com/live/v5/175/bush_hi.png -O bush.png
+wget configs-web.agario.miniclippt.com/live/v5/175/cameron_hi.png -O cameron.png
+wget configs-web.agario.miniclippt.com/live/v5/175/chavez_hi.png -O chavez.png
+wget configs-web.agario.miniclippt.com/live/v5/175/clinton_hi.png -O clinton.png
+wget configs-web.agario.miniclippt.com/live/v5/175/cuba_hi.png -O cuba.png
+wget configs-web.agario.miniclippt.com/live/v5/175/dilma_hi.png -O dilma.png
+wget configs-web.agario.miniclippt.com/live/v5/175/fidel_hi.png -O fidel.png
+wget configs-web.agario.miniclippt.com/live/v5/175/hillary_hi.png -O hillary.png
+wget configs-web.agario.miniclippt.com/live/v5/175/hollande_hi.png -O hollande.png
