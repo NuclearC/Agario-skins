@@ -73,3 +73,18 @@ wget configs-web.agario.miniclippt.com/live/v5/175/quebec_hi.png -O quebec.png
 wget configs-web.agario.miniclippt.com/live/v5/175/ayy_lmao_hi.png -O ayy\ lmao.png
 wget configs-web.agario.miniclippt.com/live/v5/175/sealand_hi.png -O sealand.png
 wget configs-web.agario.miniclippt.com/live/v5/175/bait_hi.png -O bait.png
+wget configs-web.agario.miniclippt.com/live/v5/175/origin_hi.png -O origin.png
+wget configs-web.agario.miniclippt.com/live/v5/175/vinesauce_hi.png -O vinesauce.png
+wget configs-web.agario.miniclippt.com/live/v5/175/belgium_hi.png -O belgium.png
+wget configs-web.agario.miniclippt.com/live/v5/175/luxembourg_hi.png -O luxembourg.png
+wget configs-web.agario.miniclippt.com/live/v5/175/stussy_hi.png -O stussy.png
+wget configs-web.agario.miniclippt.com/live/v5/175/8ch_hi.png -O 8ch.png
+wget configs-web.agario.miniclippt.com/live/v5/175/argentina_hi.png -O argentina.png
+wget configs-web.agario.miniclippt.com/live/v5/175/scotland_hi.png -O scotland.png
+wget configs-web.agario.miniclippt.com/live/v5/175/sir_hi.png -O sir.png
+wget configs-web.agario.miniclippt.com/live/v5/175/romania_hi.png -O romania.png
+wget configs-web.agario.miniclippt.com/live/v5/175/wojak_hi.png -O wojak.png
+wget configs-web.agario.miniclippt.com/live/v5/175/doge_hi.png -O doge.png
+wget configs-web.agario.miniclippt.com/live/v5/175/nasa_hi.png -O nasa.png
+wget configs-web.agario.miniclippt.com/live/v5/175/byzantium_hi.png -O byzantium.png
+wget configs-web.agario.miniclippt.com/live/v5/175/french_kingdom_hi.png -O french\ kingdom.png
