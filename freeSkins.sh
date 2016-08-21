@@ -108,3 +108,31 @@ wget configs-web.agario.miniclippt.com/live/v5/175/dilma_hi.png -O dilma.png
 wget configs-web.agario.miniclippt.com/live/v5/175/fidel_hi.png -O fidel.png
 wget configs-web.agario.miniclippt.com/live/v5/175/hillary_hi.png -O hillary.png
 wget configs-web.agario.miniclippt.com/live/v5/175/hollande_hi.png -O hollande.png
+wget configs-web.agario.miniclippt.com/live/v5/175/merkel_hi.png -O merkel.png
+wget configs-web.agario.miniclippt.com/live/v5/175/obama_hi.png -O obama.png
+wget configs-web.agario.miniclippt.com/live/v5/175/palin_hi.png -O palin.png
+wget configs-web.agario.miniclippt.com/live/v5/175/putin_hi.png -O putin.png
+wget configs-web.agario.miniclippt.com/live/v5/175/queen_hi.png -O queen.png
+wget configs-web.agario.miniclippt.com/live/v5/175/trump_hi.png -O trump.png
+wget configs-web.agario.miniclippt.com/live/v5/175/venezuela_hi.png -O venezuela.png
+wget configs-web.agario.miniclippt.com/live/v5/175/Colombia_hi.png -O colombia.png
+wget configs-web.agario.miniclippt.com/live/v5/175/Soccer_hi.png -O football.png
+wget configs-web.agario.miniclippt.com/live/v5/175/varoufakis_hi.png -O varoufakis.png
+wget configs-web.agario.miniclippt.com/live/v5/175/House_of_Cards_hi.png -O underwood.png
+wget configs-web.agario.miniclippt.com/live/v5/175/chaplin_hi.png -O chaplin.png
+wget configs-web.agario.miniclippt.com/live/v5/175/confederate_hi.png -O confederate.png
+wget configs-web.agario.miniclippt.com/live/v5/175/tumblr_hi.png -O tumblr.png
+wget configs-web.agario.miniclippt.com/live/v5/175/german_empire_hi.png -O german\ empire.png
+wget configs-web.agario.miniclippt.com/live/v5/175/satanist_hi.png -O satanist.png
+wget configs-web.agario.miniclippt.com/live/v5/175/kc_hi.png -O kc.png
+wget configs-web.agario.miniclippt.com/live/v5/175/tsarist_russia_hi.png -O tsarist\ russia.png
+wget configs-web.agario.miniclippt.com/live/v5/175/stalin_hi.png -O stalin.png
+wget configs-web.agario.miniclippt.com/live/v5/175/prussia_hi.png -O prussia.png
+wget configs-web.agario.miniclippt.com/live/v5/175/imperial_japan_hi.png -O imperial\ japan.png
+wget configs-web.agario.miniclippt.com/live/v5/175/facebook_hi.png -O facebook.png
+wget configs-web.agario.miniclippt.com/live/v5/175/kim_jong_un_hi.png -O kim\ jong-un.png
+wget configs-web.agario.miniclippt.com/live/v5/175/Sports_Flame.png -O agario.png
+wget configs-web.agario.miniclippt.com/live/v5/175/Yellow_hi.png -O Pika.png
+wget configs-web.agario.miniclippt.com/live/v5/175/Blue_hi.png -O Squi.png
+wget configs-web.agario.miniclippt.com/live/v5/175/Green_hi.png -O Bulba.png
+wget configs-web.agario.miniclippt.com/live/v5/175/Red_hi.png -O Char.png
